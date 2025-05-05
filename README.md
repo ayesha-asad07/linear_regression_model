@@ -41,5 +41,5 @@ Running the script will print information directly to your console, including:
 *   Performance metrics for the k-NN Regression model (tested with k=3, 5, and 7) on the test set.
 *   A final side-by-side comparison table of the metrics for all models.
 *   A brief discussion interpreting the results and comparing the models.
-```
+
 
